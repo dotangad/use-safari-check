@@ -8,6 +8,7 @@
   "keywords": [],
   "author": "Angad Singh <mail@angad.dev>",
   "license": "MIT",
+  "repository": "https://github.com/dotangad/use-safari-check",
   "dependencies": {
     "react": "^18.2.0"
   },
