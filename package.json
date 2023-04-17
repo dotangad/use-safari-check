@@ -1,0 +1,18 @@
+{
+  "name": "use-safari-check",
+  "version": "1.0.0",
+  "description": "A React hook to check for the Safari browser.",
+  "main": "src/use-safari-check.ts",
+  "entryPoint": "src/use-safari-check.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "Angad Singh <mail@angad.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.35",
+    "typescript": "^5.0.4"
+  }
+}
